@@ -30,7 +30,7 @@ steps:
       restoreSolution: '$(solution)' # Restores NuGet packages for the solution
     displayName: 'Restore NuGet Packages'
 
-  - task: VSBuild@1
+  - task: MSBuild@1
     inputs:
       solution: '$(solution)'
       msbuildArgs: '/p:DeployOnBuild=true /p:WebPublishMethod=Package /p:PackageAsSingleFile=true /p:SkipInvalidConfigurations=true /p:PackageLocation="$(build.artifactStagingDirectory)/WebApp.zip" /p:DeployIisAppPath="Default Web Site"'
