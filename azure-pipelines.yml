@@ -15,13 +15,14 @@ variables:
   solution: '**/*.sln' # Searches for solution files
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
+  System.Debug: true
 
 steps:
   - task: UseDotNet@2
     inputs:
       packageType: sdk
       version: '8.x' # Adjust this to match your ASP.Net project's required SDK version
-      
+
   - script: dotnet restore
     displayName: 'Restore Dependencies'
 
