@@ -68,3 +68,38 @@ C:\Users\aleli\s4projects\comp367macapagal-lab1\MyCoreApp\MyCoreApp\obj\Debug\ne
 C:\Users\aleli\s4projects\comp367macapagal-lab1\MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.genruntimeconfig.cache
 C:\Users\aleli\s4projects\comp367macapagal-lab1\MyCoreApp\MyCoreApp\obj\Debug\net8.0\ref\MyCoreApp.dll
 C:\Users\aleli\s4projects\comp367macapagal-lab1\MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.sourcelink.json
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\bin\Debug\net8.0\appsettings.Development.json
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\bin\Debug\net8.0\appsettings.json
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\bin\Debug\net8.0\MyCoreApp.staticwebassets.runtime.json
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\bin\Debug\net8.0\MyCoreApp.staticwebassets.endpoints.json
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\bin\Debug\net8.0\MyCoreApp.exe
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\bin\Debug\net8.0\MyCoreApp.deps.json
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\bin\Debug\net8.0\MyCoreApp.runtimeconfig.json
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\bin\Debug\net8.0\MyCoreApp.dll
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\bin\Debug\net8.0\MyCoreApp.pdb
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.AssemblyInfoInputs.cache
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.AssemblyInfo.cs
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.csproj.CoreCompileInputs.cache
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.MvcApplicationPartsAssemblyInfo.cache
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.RazorAssemblyInfo.cache
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.RazorAssemblyInfo.cs
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.sourcelink.json
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\obj\Debug\net8.0\scopedcss\bundle\MyCoreApp.styles.css
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\obj\Debug\net8.0\scopedcss\projectbundle\MyCoreApp.bundle.scp.css
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\obj\Debug\net8.0\staticwebassets\msbuild.MyCoreApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\obj\Debug\net8.0\staticwebassets\msbuild.MyCoreApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\obj\Debug\net8.0\staticwebassets\msbuild.build.MyCoreApp.props
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyCoreApp.props
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyCoreApp.props
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.dll
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\obj\Debug\net8.0\refint\MyCoreApp.dll
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.pdb
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.genruntimeconfig.cache
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\obj\Debug\net8.0\ref\MyCoreApp.dll
