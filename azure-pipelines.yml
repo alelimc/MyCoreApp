@@ -21,6 +21,12 @@ steps:
     inputs:
       packageType: sdk
       version: '8.x' # Adjust this to match your ASP.Net project's required SDK version
+      
+  - script: dotnet restore
+    displayName: 'Restore Dependencies'
+
+  - script: dotnet build --configuration Release
+    displayName: 'Build Solution'
 
   - task: NuGetToolInstaller@1
     displayName: 'Install NuGet Tool'
