@@ -2,8 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\MyCoreApp",
+    "\\MyCoreApp\\bin",
+    "\\MyCoreApp\\bin\\Release",
+    "\\MyCoreApp\\bin\\Release\\net8.0",
     "\\MyCoreApp\\Pages"
   ],
-  "SelectedNode": "\\MyCoreApp\\Pages\\Index.cshtml",
+  "SelectedNode": "\\MyCoreApp.sln",
   "PreviewInSolutionExplorer": false
 }

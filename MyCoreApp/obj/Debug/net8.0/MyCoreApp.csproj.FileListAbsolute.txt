@@ -97,7 +97,6 @@ C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPrac
 C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyCoreApp.props
 C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyCoreApp.props
 C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\obj\Debug\net8.0\staticwebassets.pack.json
-C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.dll
 C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\obj\Debug\net8.0\refint\MyCoreApp.dll
 C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\github refs\AspNetWebAppPracticePrj\MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.pdb
