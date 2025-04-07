@@ -26,12 +26,6 @@ steps:
   inputs:
     restoreSolution: '$(solution)'
 
-- script: dotnet clean
-  displayName: 'Clean Solution'
-
-- script: dotnet build --configuration Release
-  displayName: 'Build Solution'
-
 - task: VSBuild@1
   inputs:
     solution: '$(solution)'
