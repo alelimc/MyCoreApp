@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\fromDesktop\\_SEM4\\COMP-367 DevOps Implementation\\github refs\\AspNetWebAppPracticePrj\\MyCoreApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\fromDesktop\\_SEM4\\COMP-367 DevOps Implementation\\github refs\\AspNetWebAppPracticePrj\\MyCoreApp\\MyCoreApp\\Pages\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyCoreApp\\Pages\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\fromDesktop\\_SEM4\\COMP-367 DevOps Implementation\\github refs\\AspNetWebAppPracticePrj\\MyCoreApp\\MyCoreApp\\Pages\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyCoreApp\\Pages\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\fromDesktop\\_SEM4\\COMP-367 DevOps Implementation\\github refs\\AspNetWebAppPracticePrj\\MyCoreApp\\MyCoreApp\\Pages\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyCoreApp\\Pages\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +26,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\fromDesktop\\_SEM4\\COMP-367 DevOps Implementation\\github refs\\AspNetWebAppPracticePrj\\MyCoreApp\\MyCoreApp\\Pages\\Privacy.cshtml",
               "RelativeDocumentMoniker": "MyCoreApp\\Pages\\Privacy.cshtml",
               "ToolTip": "C:\\fromDesktop\\_SEM4\\COMP-367 DevOps Implementation\\github refs\\AspNetWebAppPracticePrj\\MyCoreApp\\MyCoreApp\\Pages\\Privacy.cshtml",
               "RelativeToolTip": "MyCoreApp\\Pages\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-20T19:38:27.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\fromDesktop\\_SEM4\\COMP-367 DevOps Implementation\\github refs\\AspNetWebAppPracticePrj\\MyCoreApp\\MyCoreApp\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "MyCoreApp\\Pages\\Index.cshtml",
               "ToolTip": "C:\\fromDesktop\\_SEM4\\COMP-367 DevOps Implementation\\github refs\\AspNetWebAppPracticePrj\\MyCoreApp\\MyCoreApp\\Pages\\Index.cshtml",
               "RelativeToolTip": "MyCoreApp\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-20T19:38:18.37Z",
               "EditorCaption": ""
